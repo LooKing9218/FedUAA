@@ -1,2 +1,2 @@
 # FedUAA
-The code will be released soon.
+Federated Uncertainty-Aware Aggregation for Fundus Diabetic Retinopathy Staging
